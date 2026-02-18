@@ -9,9 +9,9 @@ venv/
 # YOLO model weights
 *.pt
 
-# Images
-*.jpg
-*.png
+# Ignore specific test images
+download 3.jpg
+download 5.jpg
 
 # Output files
 detected_output.jpg
