@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# YOLO model weights
+*.pt
+
+# Images
+*.jpg
+*.png
+
+# Output files
+detected_output.jpg
+advanced_detected_output.jpg
+
+# VS Code
+.vscode/
